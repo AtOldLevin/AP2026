@@ -55,7 +55,7 @@
 
 13
 
-0 2026.10.2 山田花子　PR 手順　commit change --->
+0 2026.10.2 山田花子　PR 手順　commit change ---><> code ---> Contribute(貢献) ---> Open pull request --->  Creat pull request
 
 1
 
